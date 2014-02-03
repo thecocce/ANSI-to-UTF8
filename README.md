@@ -12,4 +12,4 @@ Given set of extensions can be ignored during convertion.
 Converted files placed into a new folder in the selected folders directory and selected folder remains unchanged.
 
 ============
-Tags: utf8, ansi, convert, convertion, ansi to utf8, ansi2utf8
+Tags: utf8, ansi, convert, convertion, ansi to utf8, ansi2utf8, download, software
